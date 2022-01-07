@@ -1,0 +1,16 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    # Runs at 9 AM everyday
+    - cron: '0 9 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://candrews.integralblue.com/feed/"
