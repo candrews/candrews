@@ -35,11 +35,11 @@ I'm not an ivory tower architect or otherwise disconnected leader. I lead by exa
 ### 📕 Latest Writings
 
 <!-- BLOG-POST-LIST:START -->
+- [Improving the Reproducibility of Spring Boot’s Docker Image Builder](https://candrews.integralblue.com/2022/10/improving-the-reproducibility-of-spring-boots-docker-image-builder/)
 - [Shellcheck Scripts Embedded in GitLab CI YAML](https://candrews.integralblue.com/2022/02/shellcheck-scripts-embedded-in-gitlab-ci-yaml/)
 - [Crafting Effective Announcements](https://candrews.integralblue.com/2022/02/crafting-effective-announcements/)
 - [Identifying, Reporting, and Fixing CVE-2021-22119: DoS Vulnerability in Spring Security OAuth 2.0](https://candrews.integralblue.com/2021/09/identifying-reporting-and-fixing-cve-2021-22119-dos-vulnerability-in-spring-security-oauth-2-0/)
 - [Users and Client Secrets in Keycloak Realm Exports](https://candrews.integralblue.com/2021/09/users-and-client-secrets-in-keycloak-realm-exports/)
-- [Cypress Testing Integrated with Gradle and Spring Boot](https://candrews.integralblue.com/2021/08/cypress-testing-integrated-with-gradle-and-spring-boot/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more writings...](https://candrews.integralblue.com/)
