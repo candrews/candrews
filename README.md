@@ -2,7 +2,7 @@
 
  # Hello! I'm Craig Andrews 👋 
 
-I'm a Executive Director of Technology with a wide variety of project experience in multiple verticals using a number of technologies.
+I'm an Executive Director of Technology with a wide variety of project experience in multiple verticals using a number of technologies.
 
 Drawing from a deep understanding of software development, I lead my teams by providing best practices and real world approaches to ensure on time, high quality, and secure delivery.
 
