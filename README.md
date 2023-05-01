@@ -36,10 +36,10 @@ I'm not an ivory tower architect or otherwise disconnected leader. I lead by exa
 
 <!-- BLOG-POST-LIST:START -->
 - [Why Do I Keep Getting Certifications?](https://candrews.integralblue.com/2023/04/why-do-i-keep-getting-certifications/)
-- [2022 Free / Open Source Software Accomplishments](https://candrews.integralblue.com/2022/12/being-the-change-my-free-software-contributions-in-2022/)
 - [How to Win at Hackathons and Coding Challenges](https://candrews.integralblue.com/2022/11/how-to-win-at-hackathons-and-coding-challenges/)
 - [Creating SBOMs with the Snyk CLI](https://candrews.integralblue.com/2022/10/creating-sboms-with-the-snyk-cli/)
 - [Improving the Reproducibility of Spring Boot’s Docker Image Builder](https://candrews.integralblue.com/2022/10/improving-the-reproducibility-of-spring-boots-docker-image-builder/)
+- [Shellcheck Scripts Embedded in GitLab CI YAML](https://candrews.integralblue.com/2022/02/shellcheck-scripts-embedded-in-gitlab-ci-yaml/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more writings...](https://candrews.integralblue.com/)
