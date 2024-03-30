@@ -35,11 +35,11 @@ I'm not an ivory tower architect or otherwise disconnected leader. I lead by exa
 ### 📕 Latest Writings
 
 <!-- BLOG-POST-LIST:START -->
+- [3D Printing High Quality Keycaps](https://candrews.integralblue.com/2024/03/3d-printing-high-quality-keycaps/)
 - [2023 Free / Open Source Software Accomplishments](https://candrews.integralblue.com/2024/01/2023-free-open-source-software-accomplishments/)
 - [SCAP Security and Compliance Scanning of Docker Images in GitHub Actions and GitLab CI](https://candrews.integralblue.com/2023/09/scap-security-and-compliance-scanning-of-docker-images-in-github-actions-and-gitlab-ci/)
 - [Always Use Docker Image Digests](https://candrews.integralblue.com/2023/09/always-use-docker-image-digests/)
 - [Looking at Some of the Most Popular Ergonomic, Mechanical Keyboards and Selecting One &lpar;Spoiler Alert: I Picked The Dactyl Manuform with Trackball&rpar;](https://candrews.integralblue.com/2023/09/looking-at-some-of-the-most-popular-ergonomic-mechanical-keyboards-and-selecting-one-spoiler-alert-i-picked-the-dactyl-manuform-with-trackball/)
-- [Why Do I Keep Getting Certifications?](https://candrews.integralblue.com/2023/04/why-do-i-keep-getting-certifications/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more writings...](https://candrews.integralblue.com/)
