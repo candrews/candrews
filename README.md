@@ -19,9 +19,6 @@ I'm not an ivory tower architect or otherwise disconnected leader. I lead by exa
 <a href="https://gitlab.com/candrews/">
     <img alt="GitLab" src="https://img.shields.io/badge/GitLab-fca326?style=for-the-badge&logo=gitlab&logoColor=white">
 </a>
-<a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcandrews&screen_name=craighandrews">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-</a>
 <a href="https://www.linkedin.com/in/candrewswpi/">
     <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
