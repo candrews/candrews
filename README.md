@@ -32,11 +32,11 @@ I'm not an ivory tower architect or otherwise disconnected leader. I lead by exa
 ### 📕 Latest Writings
 
 <!-- BLOG-POST-LIST:START -->
+- [2025 Free / Open Source Software Accomplishments](https://candrews.integralblue.com/2025/12/2025-free-open-source-software-accomplishments/)
 - [Building Docker Images Without Root or Privilege Escalation](https://candrews.integralblue.com/2025/03/building-docker-images-without-root-or-privilege-escalation/)
 - [2024 Free / Open Source Software Accomplishments](https://candrews.integralblue.com/2025/01/2024-free-open-source-software-accomplishments/)
 - [The DES Keycap Profile: 3D Printing and Using Very Nice Keycaps](https://candrews.integralblue.com/2024/09/the-des-keycap-profile-3d-printing-and-using-very-nice-keycaps/)
 - [Building the Charybdis – A Split Ergomechanical Keyboard with Trackball](https://candrews.integralblue.com/2024/09/building-the-charybdis-a-split-ergomechanical-keyboard-with-trackball/)
-- [3 month review of custom Dactyl Manuform Keyboard with Trackball](https://candrews.integralblue.com/2024/04/3-month-review-of-custom-dactyl-manuform-keyboard-with-trackball/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more writings...](https://candrews.integralblue.com/)
